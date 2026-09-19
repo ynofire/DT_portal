@@ -5,5 +5,6 @@
   "authDomain": "dentaltouch.firebaseapp.com",
   "firestoreDatabaseId": "(default)",
   "storageBucket": "dentaltouch.firebasestorage.app",
-  "messagingSenderId": "746377691718"
+  "messagingSenderId": "746377691718",
+  "measurementId": "G-2JZP3RW0NJ"
 }
