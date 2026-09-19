@@ -1,8 +1,0 @@
-rules_version = '2';
-service cloud.firestore {
-  match /databases/{database}/documents {
-    match /dental_triage_queue/{document=**} {
-      allow read, write: if true;
-    }
-  }
-}

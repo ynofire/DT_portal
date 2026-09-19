@@ -1,7 +1,0 @@
-{
-  "name": "고령 친화형 치과 스마트 전자예진 시스템",
-  "description": "오즈치과대학교병원 대형 태블릿 규격 단계별 페이지 분할 및 자연스러운 스크롤을 지원하는 스마트 전자문진 및 자동 접수 시스템",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
-
